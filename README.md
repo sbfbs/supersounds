@@ -30,3 +30,82 @@ Installation
 
 To use Sound Maximizer, ensure you have Python installed on your Windows machine. Then, install the required libraries using pip:
 
+pip install pycaw comtypes
+
+Prerequisites
+
+
+
+
+
+Operating System: Windows (This tool is only supported on Windows.)
+
+
+
+Python: Version 3.6 or higher
+
+
+
+Libraries: pycaw and comtypes
+
+Usage
+
+
+
+
+
+Run the Tool: Execute the script using the following command in your terminal or command prompt:
+
+python sound_maximizer.py
+
+
+
+Acknowledge the Warning: Read the safety warning and check the box to acknowledge the risks associated with loud sounds.
+
+
+
+Maximize Sound: Click the "Maximize Sound" button to set your system's volume to maximum. A message box will appear with instructions on how to enable Loudness Equalization for further sound enhancement.
+
+
+
+Open Sound Settings: Click the "Open Sound Settings" button to directly access the sound settings panel and follow the instructions to enable Loudness Equalization.
+
+Safety Warning
+
+
+
+
+
+Important: Extremely loud sounds can cause permanent damage to your hearing and your speakers. Always use this tool responsibly and at your own risk.
+
+Notes
+
+
+
+
+
+This tool is designed specifically for Windows. It will not function on other operating systems.
+
+
+
+If you encounter issues setting the volume or opening sound settings, ensure that your system permissions allow these actions and that your audio drivers are up to date.
+
+Contact
+
+For support, feedback, or inquiries, please reach out to:
+
+
+
+
+
+Email: developinc3@gmail.com, developinc4@gmail.com, msxmsxmsx3339@gmail.com
+
+
+
+Phone: 03455098100
+
+Creator: Muhammad Saleh, CC Education System
+
+
+
+Sound Maximizer is your go-to tool for quickly and safely maximizing your system's sound output. Whether you're preparing for a presentation, enjoying multimedia, or just need a louder experience, this tool makes it simple and straightforward.
